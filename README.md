@@ -5,8 +5,8 @@
 - 🌱 Atualmente aprendendo e aprimorando habilidades para desenvolver em React
 - 📫 Como entrar em contato comigo: rafasalmeronjr@gmail.com
 - 😄 Pronomes: Ele/Dele
-
-![Snake animation](https://github.com/rafasalmeron/rafasalmeron/blob/output/github-contribution-grid-snake.svg)
+  
+![snake animation](https://github.com/rafasalmeron/rafasalmeron/blob/output/github-contribution-grid-snake2.svg)
 
 ### Linguagens e Ferramentas:
 
