@@ -1,7 +1,7 @@
 ## Olá, me chamo Rafael Salmeron ! 
 ### Bem vindo ao meu perfil GitHub 👋
 
-- 🔭 Atualmente trabalhando em projetos pessoais e em equipe. Projetos front end de carater acadêmico.
+- 🔭 Atualmente trabalhando em projetos pessoais e em equipe. Projetos front end e back end de carater acadêmico.
 - 🌱 Atualmente aprendendo e aprimorando habilidades para desenvolver em React
 - 📫 Como entrar em contato comigo: rafasalmeronjr@gmail.com
 
