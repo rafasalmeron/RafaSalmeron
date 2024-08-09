@@ -4,7 +4,35 @@
 - 🔭 Atualmente trabalhando em projetos pessoais e em equipe. Projetos front end de carater acadêmico.
 - 🌱 Atualmente aprendendo e aprimorando habilidades para desenvolver em React
 - 📫 Como entrar em contato comigo: rafasalmeronjr@gmail.com
-- 😄 Pronomes: Ele/Dele
+
+### ⚙️ GitHub Analytics
+
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dark&hide_border=false&include_all_commits=true"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=iuricode&theme=dark&hide_border=false"
+        alt="Github Stats"
+      />
+    </td>
+  </tr>
+</table>
 
 ### Linguagens e Ferramentas:
 
@@ -17,10 +45,6 @@
 <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
 <br/>
 
-<div>
-<a href="https://github.com/rafasalmeron">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafasalmeron&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
 
 ### Contatos:
 
